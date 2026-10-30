@@ -1,6 +1,7 @@
 {
   "name": "Plan 182 días",
   "short_name": "Plan 182",
+  "id": "/182/plan-v2",
   "description": "Checklist diaria: comidas, pasos, entrenamiento y hábitos.",
   "start_url": "./",
   "scope": "./",
